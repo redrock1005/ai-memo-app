@@ -56,6 +56,9 @@ Carthage/Build/
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/#source-control
 
+# Secrets 파일 무시
+Config/Secrets.swift
+
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
